@@ -1,5 +1,5 @@
-export OUT_DIR="./experiments/reversion-pickup"
-export inference_templates="reversion_bad_cases-v2"
+export OUT_DIR="./experiments/pickup"
+export inference_templates="templates"
 export gpu_device="cuda:4"
 accelerate launch \
     --config_file="./configs/single_gpu.yml" \
