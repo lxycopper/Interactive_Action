@@ -19,8 +19,8 @@ bash run.sh
 ![Image text](./assets/quatitively_results/3.png)
 
 ## move
-![Image text](./assets/quatitively_results/1.png)
-![Image text](./assets/quatitively_results/2.png)
-![Image text](./assets/quatitively_results/3.png)
+![Image text](./assets/quatitively_results/4.png)
+![Image text](./assets/quatitively_results/5.png)
+![Image text](./assets/quatitively_results/6.png)
 
 
