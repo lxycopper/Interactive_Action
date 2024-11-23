@@ -8,34 +8,32 @@ bash run.sh
 # Results will be updated from time to time
 ## More generated results
 ### move
-<img src="./assets/synthetic_data/move/0.png" height="512px" width="512px" >
-![Image text](./assets/synthetic_data/move/0.png)
-![Image text](./assets/synthetic_data/move/1.png)
-![Image text](./assets/synthetic_data/move/2.png)
-![Image text](./assets/synthetic_data/move/3.png)
-![Image text](./assets/synthetic_data/move/4.png)
-![Image text](./assets/synthetic_data/move/5.png)
-![Image text](./assets/synthetic_data/move/6.png)
-![Image text](./assets/synthetic_data/move/7.png)
-![Image text](./assets/synthetic_data/move/8.png)
-![Image text](./assets/synthetic_data/move/9.png)
-![Image text](./assets/synthetic_data/move/10.png)
-![Image text](./assets/synthetic_data/move/11.png)
-![Image text](./assets/synthetic_data/move/12.png)
+<img src="./assets/synthetic_data/move/0.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/1.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/2.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/3.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/4.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/5.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/6.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/7.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/8.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/9.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/10.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/11.png" height="256px" width="256px" >
+<img src="./assets/synthetic_data/move/12.png" height="256px" width="256px" >
 
 ## More qualitative 
 ### pick up
-![Image text](./assets/quatitively_results/0.png)
-![Image text](./assets/quatitively_results/1.png)
-![Image text](./assets/quatitively_results/2.png)
-![Image text](./assets/quatitively_results/3.png)
+<img src="./assets/quatitively_results/0.png" height="256px" width="256px" >
+<img src="./assets/quatitively_results/1.png" height="256px" width="256px" >
+<img src="./assets/quatitively_results/2.png" height="256px" width="256px" >
+<img src="./assets/quatitively_results/3.png" height="256px" width="256px" >
 
 ### move
-![Image text](./assets/quatitively_results/4.png)
-
-![Image text](./assets/quatitively_results/6.png)
+<img src="./assets/quatitively_results/4.png" height="256px" width="256px" >
+<img src="./assets/quatitively_results/6.png" height="256px" width="256px" >
 
 ### pull out
-![Image text](./assets/quatitively_results/5.png)
+<img src="./assets/quatitively_results/5.png" height="256px" width="256px" >
 
 
