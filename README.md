@@ -13,6 +13,8 @@ bash run.sh
 
 # More qualitative results
 ![Image text](./assets/quatitively_results/0.png)
-
+![Image text](./assets/quatitively_results/1.png)
+![Image text](./assets/quatitively_results/2.png)
+![Image text](./assets/quatitively_results/3.png)
 
 
