@@ -12,6 +12,7 @@ bash run.sh
 
 
 # More qualitative results
+![Image text](./assets/quatitively_results/0.png)
 
 
 
