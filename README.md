@@ -8,7 +8,8 @@ bash run.sh
 # Results will be updated from time to time
 ## More generated results
 ### move
-![Image text](./assets/synthetic_data/move/0.png =512x512)
+<img src="./assets/synthetic_data/move/0.png" height="512px" width="512px" >
+![Image text](./assets/synthetic_data/move/0.png)
 ![Image text](./assets/synthetic_data/move/1.png)
 ![Image text](./assets/synthetic_data/move/2.png)
 ![Image text](./assets/synthetic_data/move/3.png)
