@@ -7,8 +7,7 @@ bash run.sh
 ```
 
 # More generated results
-
-
+## 
 
 
 # More qualitative results
@@ -20,7 +19,10 @@ bash run.sh
 
 ## move
 ![Image text](./assets/quatitively_results/4.png)
-![Image text](./assets/quatitively_results/5.png)
+
 ![Image text](./assets/quatitively_results/6.png)
+
+## pull out
+![Image text](./assets/quatitively_results/5.png)
 
 
