@@ -47,12 +47,12 @@ bash run.sh
 
 <img src="./assets/quatitively_results/17.png" height="200px" width="200px" ><img src="./assets/quatitively_results/11.png" height="200px" width="200px" ><img src="./assets/quatitively_results/9.png" height="200px" width="200px" ><img src="./assets/quatitively_results/4.png" height="200px" width="200px" >
 
-*&nbsp; &nbsp;Cat **{hug}** bear.    &nbsp; &nbsp;   Justin Bieber **{pick up}** phone. &nbsp; &nbsp;  Girl **{open}** gate.  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Man **{move}** large box.*
+*&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp;     Cat **{hug}** bear.      &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp; Justin Bieber **{pick up}** phone.  &nbsp; &nbsp; &nbsp;&nbsp; Girl **{open}** gate.  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Man **{move}** large box.*
 
 
 
 <img src="./assets/quatitively_results/25.png" height="200px" width="200px" ><img src="./assets/quatitively_results/21.png" height="200px" width="200px" ><img src="./assets/quatitively_results/3.png" height="200px" width="200px" ><img src="./assets/quatitively_results/12.png" height="200px" width="200px" > 
 
-*&nbsp; &nbsp; Tom Cruise **{move}** drawer.    &nbsp; &nbsp;  Woman **{hold}** apple and apple.  &nbsp; &nbsp;  Young man **{pick up}** cup.  &nbsp; &nbsp;  Bear **{push}** car.*
+*Tom Cruise **{move}** drawer.      Woman **{hold}** apple and apple.  Young man **{pick up}** cup.    &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Bear **{push}** car.*
 
 
