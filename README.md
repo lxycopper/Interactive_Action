@@ -20,5 +20,7 @@ bash run.sh
 
 <img src="./assets/quatitively_results/2.png" height="200px" width="200px" ><img src="./assets/quatitively_results/13.png" height="200px" width="200px" ><img src="./assets/quatitively_results/6.png" height="200px" width="200px" ><img src="./assets/quatitively_results/16.png" height="200px" width="200px" >
 
-<img src="./assets/quatitively_results/20.png" height="200px" width="200px" >
+<img src="./assets/quatitively_results/20.png" height="200px" width="200px" ><img src="./assets/quatitively_results/19.png" height="200px" width="200px" ><img src="./assets/quatitively_results/21.png" height="200px" width="200px" ><img src="./assets/quatitively_results/23.png" height="200px" width="200px" >
+
+<img src="./assets/quatitively_results/17.png" height="200px" width="200px" ><img src="./assets/quatitively_results/2.png" height="200px" width="200px" ><img src="./assets/quatitively_results/22.png" height="200px" width="200px" ><img src="./assets/quatitively_results/18.png" height="200px" width="200px" >
 
