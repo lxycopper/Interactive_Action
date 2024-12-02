@@ -17,13 +17,27 @@ bash run.sh
 
 <img src="./assets/quatitively_results/0.png" height="200px" width="200px" ><img src="./assets/quatitively_results/10.png" height="200px" width="200px" ><img src="./assets/quatitively_results/15.png" height="200px" width="200px" ><img src="./assets/quatitively_results/28.png" height="200px" width="200px" >
 
+*&nbsp; MJ **{pick up}** microphone.    &nbsp;    Joe Biden **{pull out}** car door. Monkey **{pick up}** strawberry. &nbsp; J.K Rowling **{push}** baby cart.*
+
 
 
 <img src="./assets/quatitively_results/7.png" height="200px" width="200px" ><img src="./assets/quatitively_results/5.png" height="200px" width="200px" ><img src="./assets/quatitively_results/14.png" height="200px" width="200px" ><img src="./assets/quatitively_results/4.png" height="200px" width="200px" >
 
+*&nbsp; &nbsp; Steven Jobs **{move}** case.    &nbsp; &nbsp;   Granpa **{pull out}** drawer. &nbsp; &nbsp; &nbsp; &nbsp; Bear **{pick up}** book. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Man **{push}** box.*
+
+
+
 <img src="./assets/quatitively_results/8.png" height="200px" width="200px" ><img src="./assets/quatitively_results/9.png" height="200px" width="200px" ><img src="./assets/quatitively_results/1.png" height="200px" width="200px" ><img src="./assets/quatitively_results/12.png" height="200px" width="200px" >
 
+*&nbsp; &nbsp; Bear **{push}** car.    &nbsp; &nbsp;   Girl **{pull out}** gate. &nbsp; &nbsp; &nbsp; &nbsp; Young man **{pick up}** cup. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bear **{push}** car.*
+
+
+
 <img src="./assets/quatitively_results/26.png" height="200px" width="200px" ><img src="./assets/quatitively_results/13.png" height="200px" width="200px" ><img src="./assets/quatitively_results/6.png" height="200px" width="200px" ><img src="./assets/quatitively_results/27.png" height="200px" width="200px" >
+
+*&nbsp; &nbsp; Einstein **{push}** shopping cart.    &nbsp; &nbsp;   Girl **{pull out}** room door. &nbsp; &nbsp; &nbsp; &nbsp;  Man **{move}** large box. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bear **{push}** car.*
+
+
 
 <img src="./assets/quatitively_results/20.png" height="200px" width="200px" ><img src="./assets/quatitively_results/19.png" height="200px" width="200px" ><img src="./assets/quatitively_results/21.png" height="200px" width="200px" ><img src="./assets/quatitively_results/23.png" height="200px" width="200px" >
 
