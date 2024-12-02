@@ -9,6 +9,9 @@ bash run.sh
 ## More generated results
 ### move
 <img src="./assets/synthetic_data/move/0.png" height="200px" width="200px" ><img src="./assets/synthetic_data/move/10.png" height="200px" width="200px" ><img src="./assets/synthetic_data/move/12.png" height="200px" width="200px" ><img src="./assets/synthetic_data/move/3.png" height="200px" width="200px" >
+ ### two objects
+<img src="./assets/synthetic_data/two_objects_hold/0.png" height="200px" width="200px" ><img src="./assets/synthetic_data/two_objects_hold/1.png" height="200px" width="200px" ><img src="./assets/synthetic_data/two_objects_hold/2.png" height="200px" width="200px" ><img src="./assets/synthetic_data/two_objects_hold/3.png" height="200px" width="200px" >
+
 
 ## More qualitative 
 
