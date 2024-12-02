@@ -21,9 +21,9 @@ bash run.sh
 
 
 
-<img src="./assets/quatitively_results/7.png" height="200px" width="200px" ><img src="./assets/quatitively_results/5.png" height="200px" width="200px" ><img src="./assets/quatitively_results/14.png" height="200px" width="200px" ><img src="./assets/quatitively_results/4.png" height="200px" width="200px" >
+<img src="./assets/quatitively_results/7.png" height="200px" width="200px" ><img src="./assets/quatitively_results/5.png" height="200px" width="200px" ><img src="./assets/quatitively_results/14.png" height="200px" width="200px" ><img src="./assets/quatitively_results/20.png" height="200px" width="200px" >
 
-*&nbsp; &nbsp; Steven Jobs **{move}** case.    &nbsp; &nbsp;   Granpa **{pull out}** drawer. &nbsp; &nbsp; &nbsp; &nbsp; Bear **{pick up}** book. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Man **{push}** box.*
+*&nbsp; &nbsp; Steven Jobs **{move}** case.    &nbsp; &nbsp;   Granpa **{pull out}** drawer. &nbsp; &nbsp; &nbsp; &nbsp; Bear **{pick up}** book. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lebron James **{open}** window.*
 
 
 
@@ -33,15 +33,15 @@ bash run.sh
 
 
 
-<img src="./assets/quatitively_results/26.png" height="200px" width="200px" ><img src="./assets/quatitively_results/13.png" height="200px" width="200px" ><img src="./assets/quatitively_results/6.png" height="200px" width="200px" ><img src="./assets/quatitively_results/27.png" height="200px" width="200px" >
+<img src="./assets/quatitively_results/26.png" height="200px" width="200px" ><img src="./assets/quatitively_results/13.png" height="200px" width="200px" ><img src="./assets/quatitively_results/6.png" height="200px" width="200px" ><img src="./assets/quatitively_results/4.png" height="200px" width="200px" >
 
-*&nbsp; &nbsp; Albert Einstein **{push}** shopping cart.    &nbsp; &nbsp;   Girl **{pull out}** room door. &nbsp; &nbsp; &nbsp; &nbsp;  Man **{move}** large box. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Elon Musk **{push}** vacuum cleaner.*
+*&nbsp; &nbsp; Albert Einstein **{push}** shopping cart.    &nbsp; &nbsp;   Girl **{pull out}** room door. &nbsp; &nbsp; &nbsp; &nbsp;    Man **{move}** box. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Elon Musk **{push}** vacuum cleaner.*
 
 
 
-<img src="./assets/quatitively_results/20.png" height="200px" width="200px" ><img src="./assets/quatitively_results/19.png" height="200px" width="200px" ><img src="./assets/quatitively_results/21.png" height="200px" width="200px" ><img src="./assets/quatitively_results/23.png" height="200px" width="200px" >
+<img src="./assets/quatitively_results/27.png" height="200px" width="200px" ><img src="./assets/quatitively_results/19.png" height="200px" width="200px" ><img src="./assets/quatitively_results/21.png" height="200px" width="200px" ><img src="./assets/quatitively_results/23.png" height="200px" width="200px" >
 
-*&nbsp; &nbsp; Lebron James **{open}** window.    &nbsp; &nbsp;   Monkey **{hug}** monkey. &nbsp; &nbsp; &nbsp; &nbsp;  Woman **{hold}** apple and apple. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Young man **{hold}** apple and book.*
+*&nbsp; &nbsp; Man **{move}** large box.  &nbsp; &nbsp;   Monkey **{hug}** monkey. &nbsp; &nbsp; &nbsp; &nbsp;  Woman **{hold}** apple and apple. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Young man **{hold}** apple and book.*
 
 
 
