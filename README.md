@@ -41,7 +41,7 @@ bash run.sh
 
 <img src="./assets/quatitively_results/18.png" height="200px" width="200px" ><img src="./assets/quatitively_results/19.png" height="200px" width="200px" ><img src="./assets/quatitively_results/2.png" height="200px" width="200px" ><img src="./assets/quatitively_results/23.png" height="200px" width="200px" >
 
-*Sam Altman **{hug}** old man.  &nbsp; &nbsp;   Monkey **{hug}** monkey. &nbsp; &nbsp; &nbsp; &nbsp;   Young man **{pick up}** cup. Young man **{hold}** apple and book.*
+*Sam Altman **{hug}** old man.  &nbsp; &nbsp;   Monkey **{hug}** monkey. &nbsp; &nbsp;   Young man **{pick up}** cup. Young man **{hold}** apple and book.*
 
 
 
